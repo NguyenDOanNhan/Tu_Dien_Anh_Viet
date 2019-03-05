@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1001706651183",
+    "firebase_url": "https://tudienanhviet-4602e.firebaseio.com",
+    "project_id": "tudienanhviet-4602e",
+    "storage_bucket": "tudienanhviet-4602e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001706651183:android:0f0c8cb7975be168",
+        "android_client_info": {
+          "package_name": "nguyendoannhan.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001706651183-3khuicilap68nj57d5fsshlfjnmm7v52.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nguyendoannhan.com",
+            "certificate_hash": "9b4473ea315efc21e30a965963bdaa2e2427d80f"
+          }
+        },
+        {
+          "client_id": "1001706651183-ph4idppjmnhqjs8b4rhssumlkglkgk5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7Vla_zE7_JfnOOo8Nz5RXRpCbcAzqksU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001706651183-ph4idppjmnhqjs8b4rhssumlkglkgk5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
